@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653748793 source:c:\users\flepoo\desktop\datastructure\12- stack linked based [header]\main.cpp
+	<iostream>
+	"stackLinked.h"
+
+1653748774 c:\users\flepoo\desktop\datastructure\12- stack linked based [header]\stacklinked.h
+	<iostream>
+
+1653749120 source:c:\users\flepoo\desktop\datastructure\12- stack linked based [header]\stacklinked.cpp
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652924779 source:c:\users\flepoo\desktop\datastructure\2- stack [class]\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

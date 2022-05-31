@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653751457 source:c:\users\flepoo\desktop\datastructure\14- queue linked based [header]\queuelinked.cpp
+	<iostream>
+
+1653751053 source:c:\users\flepoo\desktop\datastructure\14- queue linked based [header]\main.cpp
+	<iostream>
+	"queuLinked.h"
+
+1653751005 c:\users\flepoo\desktop\datastructure\14- queue linked based [header]\queulinked.h
+	<iostream>
+

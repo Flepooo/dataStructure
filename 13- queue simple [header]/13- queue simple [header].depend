@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653750378 source:c:\users\flepoo\desktop\datastructure\13- queue simple [header]\main.cpp
+	<iostream>
+	"queueSimple.h"
+
+1653750396 c:\users\flepoo\desktop\datastructure\13- queue simple [header]\queuesimple.h
+	<iostream>
+
+1653750532 source:c:\users\flepoo\desktop\datastructure\13- queue simple [header]\queuesimple.cpp
+	<iostream>
+

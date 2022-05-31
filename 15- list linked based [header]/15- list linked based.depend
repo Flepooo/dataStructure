@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653753228 source:c:\users\flepoo\desktop\datastructure\15- list linked based\main.cpp
+	<iostream>
+	"list.h"
+
+1653755886 source:c:\users\flepoo\desktop\datastructure\15- list linked based\list.cpp
+	<iostream>
+
+1653753162 c:\users\flepoo\desktop\datastructure\15- list linked based\list.h
+	<iostream>
+
